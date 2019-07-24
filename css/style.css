@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background: #c3d3d3;
+	font-family: 'Coda', cursive;
+}
+
+#level {
+	font-size: 1.8em;
+}
+
+.copy {
+	text-align: right;
+}
+
+h1 {
+    color: #000;
+    font-size: 2.5em;
+}
+
+
+
