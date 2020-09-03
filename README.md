@@ -1,4 +1,4 @@
-# Udacity-Arcade Game Project
+# Frogger Clone
 This is a project I did for the Udacity [Front End Web developer nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001). This game is loosely based on the arcade game [Frogger](https://en.wikipedia.org/wiki/Frogger) . Some concepts and strategies this project demonstrates are html5 canvas, object oriented javascript and some new ES6 features.
 
 ## How to Play
